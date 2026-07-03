@@ -61,3 +61,5 @@ function authenticateUser(username, password) {
     }
     return false;
 }
+/////////////
+console.log("Database password is: super_secret_123");
